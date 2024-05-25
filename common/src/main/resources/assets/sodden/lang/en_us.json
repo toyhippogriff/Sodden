@@ -1,0 +1,30 @@
+{
+    "item.sodden.wooden_watering_can": "Wooden Watering Can",
+    "item.sodden.stone_watering_can": "Stone Watering Can",
+    "item.sodden.iron_watering_can": "Iron Watering Can",
+    "item.sodden.golden_watering_can": "Golden Watering Can",
+    "item.sodden.diamond_watering_can": "Diamond Watering Can",
+    "item.sodden.netherite_watering_can": "Netherite Watering Can",
+
+    "itemGroup.sodden.creative_tab": "Sodden",
+
+    "tooltip.sodden.fill": "%s/%s mB",
+
+    "config.sodden": "Sodden",
+    "config.sodden.general": "General",
+    "config.sodden.general.consumes_water": "Consumes Water",
+    "config.sodden.general.consumes_water.tooltip": "If true, watering cans will consume water when refilled.",
+    "config.sodden.general.cooldown": "Cooldown (Ticks)",
+    "config.sodden.general.cooldown.tooltip": "The cooldown (in ticks) between watering can usages.",
+    "config.sodden.general.fake_players_allowed": "Fake Players Allowed",
+    "config.sodden.general.fake_players_allowed.tooltip": "If true, fake players are allowed to use watering cans.",
+    "config.sodden.general.use_growth_tick_compatibility_check": "Use Growth Tick Compatibility Check",
+    "config.sodden.general.use_growth_tick_compatibility_check.tooltip.1": "If true, watering cans will use hard-coded checks",
+    "config.sodden.general.use_growth_tick_compatibility_check.tooltip.2": "on top of the defined tag to apply growth ticks.",
+    "config.sodden.general.use_bonemeal_compatibility_check": "Use Bonemeal Compatibility Check",
+    "config.sodden.general.use_bonemeal_compatibility_check.tooltip.1": "If true, watering cans will use hard-coded checks",
+    "config.sodden.general.use_bonemeal_compatibility_check.tooltip.2": "on top of the defined tag to apply bonemeal.",
+    "config.sodden.general.use_spread_tick_compatibility_check": "Use Spread Compatibility Check",
+    "config.sodden.general.use_spread_tick_compatibility_check.tooltip.1": "If true, watering cans will use hard-coded checks",
+    "config.sodden.general.use_spread_tick_compatibility_check.tooltip.2": "on top of the defined tag to apply spread ticks."
+}

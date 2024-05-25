@@ -1,0 +1,11 @@
+{
+    "tier": "gold",
+    "capacity": 4000,
+    "usage": 50,
+    "fill": 1000,
+    "radius": 1,
+    "growth_tick_chance": 0.05,
+    "bonemeal_chance": 0.0,
+    "flower_chance": 0.025,
+    "spread_tick_chance": 0.05
+}

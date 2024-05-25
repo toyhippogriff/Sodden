@@ -1,0 +1,11 @@
+{
+    "tier": "netherite",
+    "capacity": 256000,
+    "usage": 500,
+    "fill": 1000,
+    "radius": 4,
+    "growth_tick_chance": 0.1,
+    "bonemeal_chance": 0.005,
+    "flower_chance": 0.0,
+    "spread_tick_chance": 0.1
+}

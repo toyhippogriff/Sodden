@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "sodden:wooden_watering_can",
+        "sodden:stone_watering_can",
+        "sodden:iron_watering_can",
+        "sodden:golden_watering_can",
+	    "sodden:diamond_watering_can",
+	    "sodden:netherite_watering_can"
+    ]
+}

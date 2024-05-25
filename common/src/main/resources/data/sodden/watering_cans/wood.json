@@ -1,0 +1,11 @@
+{
+    "tier": "wood",
+    "capacity": 1000,
+    "usage": 25,
+    "fill": 1000,
+    "radius": 0,
+    "growth_tick_chance": 0.1,
+    "bonemeal_chance": 0.0,
+    "flower_chance": 0.0,
+    "spread_tick_chance": 0.1
+}

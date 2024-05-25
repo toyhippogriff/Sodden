@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "#crops",
+        "#saplings",
+        "#cave_vines",
+        "minecraft:cactus",
+        "minecraft:sugar_cane",
+        "minecraft:bamboo",
+        "minecraft:bamboo_sapling",
+        "minecraft:sweet_berry_bush",
+        "minecraft:cocoa",
+        "minecraft:kelp",
+        "minecraft:kelp_plant",
+        "minecraft:nether_wart",
+        "minecraft:chorus_flower"
+    ]
+}

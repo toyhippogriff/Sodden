@@ -1,0 +1,32 @@
+{
+    "schemaVersion": 1,
+    "id": "sodden",
+    "version": "${version}",
+    "name": "Sodden",
+    "description": "Adds 6 configurable, tiered watering cans to grow saplings and crops, spawn flowers, and spread grass.",
+    "authors": [
+        "toyhippogriff"
+    ],
+    "contact": {
+      "homepage": "https://curseforge.com/minecraft/mc-mods/sodden",
+      "sources": "https://github.com/toyhippogriff/Sodden",
+      "issues": "https://github.com/toyhippogriff/Sodden/issues"
+    },
+    "license": "GPL 3",
+    "icon": "icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "toyhippogriff.sodden.fabric.SoddenFabric"
+        ],
+        "modmenu": [
+            "toyhippogriff.sodden.fabric.config.SoddenModMenu"
+        ]
+    },
+    "depends": {
+        "fabric": "*",
+        "minecraft": ">=1.18.2",
+        "architectury": ">=4.11.93",
+        "cloth-config2": ">=6-"
+    }
+}

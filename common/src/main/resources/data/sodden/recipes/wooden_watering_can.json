@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PF ",
+        "PBP",
+        " P "
+    ],
+    "key": {
+        "P": {
+            "tag": "minecraft:planks"
+        },
+        "F": {
+            "item": "minecraft:bone_meal"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "sodden:wooden_watering_can",
+        "count": 1
+    }
+}

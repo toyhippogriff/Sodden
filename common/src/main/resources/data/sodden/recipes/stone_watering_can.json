@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CF ",
+        "CBC",
+        " C "
+    ],
+    "key": {
+        "C": {
+            "tag": "minecraft:stone_tool_materials"
+        },
+        "F": {
+            "item": "minecraft:bone_meal"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "sodden:stone_watering_can",
+        "count": 1
+    }
+}

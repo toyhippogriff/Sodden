@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DF ",
+        "DBD",
+        " D "
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "F": {
+            "item": "minecraft:bone_meal"
+        },
+        "B": {
+            "item": "minecraft:bucket"
+        }
+    },
+    "result": {
+        "item": "sodden:diamond_watering_can",
+        "count": 1
+    }
+}

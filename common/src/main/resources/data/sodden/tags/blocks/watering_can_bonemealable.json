@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "#crops",
+        "#saplings",
+        "#cave_vines",
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "minecraft:bamboo",
+        "minecraft:bamboo_sapling",
+        "minecraft:sweet_berry_bush",
+        "minecraft:cocoa",
+        "minecraft:moss_block",
+        "minecraft:glow_lichen",
+        "minecraft:big_dripleaf",
+        "minecraft:small_dripleaf",
+        "minecraft:rooted_dirt",
+        "minecraft:kelp",
+        "minecraft:kelp_plant",
+        "minecraft:crimson_fungus",
+        "minecraft:warped_fungus",
+        "minecraft:weeping_vines",
+        "minecraft:twisting_vines"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+	"addition": {
+		"item": "minecraft:netherite_ingot"
+	},
+	"base": {
+		"item": "sodden:diamond_watering_can"
+	},
+	"result": {
+		"item": "sodden:netherite_watering_can"
+	}
+}
